@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+    text-align: center;
+}
 h1 {
     color:white;
     font-family: Verdana;
@@ -5,10 +9,7 @@ h1 {
     text-align: center;
     font-size: 50px;
 }
-p {
-    color: aquamarine;
-    font-size: 16px;
-}
+
 h2 {
     color: white;
     font-family: Verdana;
@@ -16,23 +17,20 @@ h2 {
     text-align: center;
     font-size: 42px;
 }
-body {
-    background-color: black;
-    text-align: center;
-}
 
 a {
     color: aquamarine;
-    text-decoration: none;
+    text-decoration: underline;
+    font-size: 16px;
 }
-footer-text {
+.footer-text {
     text-align: right;
     color: gray;
 }
 
-h3 {
+.p-text {
     
     color: gray;
     font-family: Verdana;
-    font-size:212px;
+    font-size:21px;
 }
